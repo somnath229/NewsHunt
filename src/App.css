@@ -1,0 +1,18 @@
+/* html {
+  overflow: scroll;
+  overflow-x: hidden;
+}
+::-webkit-scrollbar {
+  width: 0;  
+  background: transparent;  
+}
+/* /* Optional: show position indicator in red 
+::-webkit-scrollbar-thumb {
+  background: #FF0000;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+} */
